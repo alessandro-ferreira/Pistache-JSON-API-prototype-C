@@ -1,11 +1,11 @@
-## __Title: Palladris-JSON-API-prototype-C__
+## __Title: Palladris-JSON-API-prototype-Test-C++__
 #### Author:
 - Alessandro dos Santos Ferreira
 
 **NOTE**: This script requires Docker installation ( more info on https://docs.docker.com/engine/install/ ).
 
 ## How to Install
-- First, test your Docker installation
+- Test your Docker installation
 ```
 $ docker --version
 $ docker run hello-world
@@ -18,7 +18,7 @@ $ cd docker
 $ ./build.sh
 ```
 ## How to use:
-- Execute the following command to start the docker flask server :
+- Execute the following command to start the server :
 ```
 $ ./deploy.sh
 ```
