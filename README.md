@@ -1,4 +1,4 @@
-## __Title: Palladris-JSON-API-prototype-C__
+## __Title: Pistache-JSON-API-prototype-C__
 #### Author:
 - Alessandro dos Santos Ferreira
 
